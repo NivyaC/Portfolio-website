@@ -272,7 +272,7 @@ header .navbar ul li a:hover{
 .js {width: 50%; background-color: red;} /* Red */
 .c-programming {width: 60%; background-color: #fbff19;} /* Dark Grey */
 .python {width: 70%; background-color: #04AA6D;}/*green*/
-.ui-ux-designing {width: 70%; background-color: #fff;} /* Dark Grey */
+.ui-ux-designing {width: 80%; background-color: #fff;} /* Dark Grey */
 
 .contact.row{
     display: flex;
