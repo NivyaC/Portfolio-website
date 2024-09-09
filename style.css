@@ -267,10 +267,11 @@ header .navbar ul li a:hover{
   color: white; /* White text color */
 }
 
-.html {width: 50%; background-color: #04AA6D;} /* Green */
-.css {width: 50%; background-color: #2196F3;} /* Blue */
+.html {width: 80%; background-color: #04AA6D;} /* Green */
+.css {width: 80%; background-color: #2196F3;} /* Blue */
 .js {width: 50%; background-color: red;} /* Red */
 .c-programming {width: 60%; background-color: #fbff19;} /* Dark Grey */
+.python {width: 70%; background-color: #04AA6D;}/*green*/
 .ui-ux-designing {width: 70%; background-color: #fff;} /* Dark Grey */
 
 .contact.row{
